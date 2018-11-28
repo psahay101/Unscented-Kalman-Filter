@@ -18,9 +18,9 @@
 ## Results: <a name="results"></a>
 
 - Estimation vs Ground Truth with different data sets
-![](images/estimation_Vs_groundtruth_Vis.png) 
+![](estimation_Vs_groundtruth_Vis.png) 
 - Nis of Data1 and Data2
-![](images/nis_Vis.png)
+![](nis_Vis.png)
 
 ## How to run: <a name="howto"></a>
 
